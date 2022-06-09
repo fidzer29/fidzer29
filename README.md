@@ -1,5 +1,5 @@
-### Hi there 👋
-![pendaki](pendaki.png)
+### WELCOME IN MY WORLD 👋
+![pendaki](hike-clipart-mountain-climber-16-316902982)
 <!--
 **fidzer29/fidzer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
