@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src=”https://tokoonline88.com/wp-content/uploads/2017/07/tongkat-bantu-pendaki-gunung.jpg”>
+![screenshot](screenshot.png)
 <!--
 **fidzer29/fidzer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
